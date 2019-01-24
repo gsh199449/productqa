@@ -1,7 +1,7 @@
 ### PAAG
 ### Product-Aware Answer Generation in E-Commerce Question-Answering
 
-This repository contains dataset for the WSDM 2019 paper Product-Aware Answer Generation in E-Commerce Question-Answering. 
+This repository contains dataset for the WSDM 2019 paper Product-Aware Answer Generation in E-Commerce Question-Answering ([Download paper](https://arxiv.org/abs/1901.07696)). 
 
 # About the corpus
 JD Product Question Answer corpus consists of online product-aware QA pairs. The corpus cover 469,953 products and 38 product categories.
