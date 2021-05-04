@@ -8,7 +8,7 @@ JD Product Question Answer corpus consists of online product-aware QA pairs. The
 
 
 # How to get JD Product Question Answer corpus?
-Signed the following copyright announcement with your name and organization. Then complete the form online(https://goo.gl/forms/qfGs2V8pDdwwvT332) and mail to shengao#pku.edu.cn ('#'->'@'), we will send you the corpus by e-mail when approved.
+Signed the following copyright announcement with your name and organization. Then complete the form online(https://goo.gl/forms/qfGs2V8pDdwwvT332) and **mail** to shengao#pku.edu.cn ('#'->'@'), we will send you the corpus by e-mail when approved.
 
 # Copyright
 The original copyright of all the conversations belongs to the source owner.
